@@ -77,7 +77,7 @@
 &trans     &trans        &trans          &trans             &trans            &trans          &mkp LCLK        &trans           &trans          &trans      &trans     &trans
             >;
 
-            display-name = "LAYER1";
+            display-name = "LAYER2";
             sensor-bindings = <&scroll_encoder>;
         };
     };
