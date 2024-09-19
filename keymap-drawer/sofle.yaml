@@ -105,8 +105,8 @@ layers:
   - $$mdi:arrow-right-bold$$
   - {t: ']', s: '}'}
   - {t: '$$mdi:transfer$$', type: trans}
-  - RGB OFF
-  - RGB ON
+  - {t: '$$mdi:transfer$$', type: trans}
+  - RGB TOG
   - RGB EFF
   - RGB EFR
   - RGB SPI
